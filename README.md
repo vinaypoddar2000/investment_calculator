@@ -7,7 +7,7 @@ This project is designed to demonstrate practical financial computation, clean U
 ---
 
 ## Website Link
-- https://tic-tac-toe-3vgj.onrender.com/
+- https://investment-calculator-iszr.onrender.com
 
 ---
 
@@ -60,7 +60,7 @@ User-friendly inputs with number formatting
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vinaypoddar2000/scratchClone.git
+git clone https://github.com/vinaypoddar2000/investment_calculator.git
 cd investment_calculator
 ```
 
